@@ -156,32 +156,5 @@ will help the maintainers focus more on improving the app.
 
 ## AI Usage Policy
 
-Zettlr does not prohibit the use of generative pre-trained transformers (GPT
-models; simply "LLMs" or "chat bots") per se. GPT-models/LLMs are great and
-valuable tools for getting certain tasks done faster than without. However, we
-require anyone who contributes to the app to be transparent about the use of AI
-and keep a few limits in mind.
-
-By contributing to the repository, **you agree to abide by our AI Usage Policy**:
-
-* Wherever you have consulted GPT models (ChatGPT, Claude, Gemini, Apple
-  Intelligence, or local models), you disclose the extent of the usage. "Usage"
-  in the context of this policy refers to you letting it write code or (docs)
-  text that you use in your contribution. This also includes letting it improve
-  a paragraph of text or block of code that you have written. A coarse statement
-  provided when you open a PR is sufficient ("AI was used to improve this
-  text/code"). We may ask you to specify further, but by default, we only expect
-  general disclosure.
-* You agree to check and proof-read any text/code that AI has generated to
-  ensure you understand it. We do not require you to provide perfect code; but
-  we do require you to understand everything you wish to contribute to Zettlr
-  and its ecosystem.
-* You acknowledge that you are the sole author and solely responsible for any
-  contribution you make. GPT-models cannot make contributions on their own. You
-  may never acknowledge GPT models as co-authors, especially not in commit-
-  messages.
-* You agree to follow ethical principles in whatever you do. This especially
-  holds true for "Respect for persons": You are interacting with humans here,
-  and we expect you to respect them. This means that nobody wishes to talk to a
-  GPT-model. Communicate on your own, regardless of how much AI you use to help
-  you contribute.
+ZettLTR does not prohibit the use of generative pre-trained transformers (GPT
+models; simply "LLMs" or "chat bots"). Show us how you make this fork 10 times better than the original!@@@@!!!!!
